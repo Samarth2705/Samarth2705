@@ -1,6 +1,6 @@
 This is samarth verma
 <br>
-studying git from apna college.
+studying git and github
 author: Samarth Verma
 <br>
 
