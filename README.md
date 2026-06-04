@@ -8,7 +8,8 @@ I'm a third-year engineering student at **KJ Somaiya College of Engineering**, p
 - 💻 **Problem Solving:** I regularly tackle Data Structures and Algorithms, primarily using **C++**.
 - 🛠️ **Project Experience:** I enjoy building diverse applications, ranging from Java-based simulators to interactive web projects using HTML and JavaScript.
 - 📫 **How to reach me:** [vsamarth001@gmail.com](mailto:vsamarth001@gmail.com)
+- 💼 **LinkedIn:** [Samarth Verma](https://www.linkedin.com/in/samarth-verma-84bb8334b)
 
 ### 🛠️ Tech Stack & Tools
-* **Languages:** C++, Java, JavaScript, HTML/CSS, Python
+* **Languages:** C++, Java, Python, JavaScript, HTML/CSS
 * **Interests:** Data Science, Algorithmic Logic, Code Optimization
