@@ -10,5 +10,5 @@ I'm a third-year engineering student at **KJ Somaiya College of Engineering**, p
 - 📫 **How to reach me:** [vsamarth001@gmail.com](mailto:vsamarth001@gmail.com)
 
 ### 🛠️ Tech Stack & Tools
-* **Languages:** C++, Java, JavaScript, HTML/CSS
+* **Languages:** C++, Java, JavaScript, HTML/CSS, Python
 * **Interests:** Data Science, Algorithmic Logic, Code Optimization
